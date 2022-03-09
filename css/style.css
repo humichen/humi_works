@@ -33,9 +33,17 @@ h1,h3 {
    font-weight:600;
    margin-bottom: 0;
 }
+button{
+   outline:none !important;
+}
+
+.navbar-dark .navbar-toggler {
+   /* color: #fff !important; */
+   border-color: rgba(255, 255, 255, 0.5) !important;
+}
 
 /* Divider Style */
-.divider--light,
+/* .divider--light,
 .divider--dark {
       width: 250px;
       border-top: solid 5px;
@@ -47,7 +55,7 @@ h1,h3 {
 
 .divider--dark {
       border-color: #31b6a1;
-}
+} */
 
 /* Nav Style */
 .nav__bg {
@@ -189,7 +197,7 @@ footer {
 
 .footer__below {
    background-color: #233140;
-   color: white;
+   color: #fff;
    /* padding: 25px 0; */
    text-align: center;
    /* height: 77px; */
@@ -472,20 +480,20 @@ footer {
 }
 
 /* course cell colors */
-.color_bud{
+/* .color_bud{
    background-color: #EAEFBD;
    color: #233140;
-}
+} */
 
 .color_tea{
    background-color: #fff;
    /* color: #233140; */
 }
 
-.color_carrot{
+/* .color_carrot{
    background-color: #EA9010;
    color: #fff;
-}
+} */
 
 
 
