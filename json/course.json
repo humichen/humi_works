@@ -1,0 +1,342 @@
+[
+  {
+    "_id": 0,
+    "title": "網站與擴充套件",
+    "entitle": "Website & Extensions",
+    "icon": "fa-window-restore",
+    "colorclass": "color_tea",
+    "details": [
+      {
+        "courseclass": "light",
+        "fulltitle": "國北教大數位系系網",
+        "workImg": "images/img_dtdWebsite.png",
+        "filmurl": "",
+        "workurl": "https://dtd.ntue.edu.tw/#/",
+        "awards": "",
+        "purpose": "數位系系網新改版。",
+        "tools": "React、Wordpress",
+        "members": [
+          {"name":"陳鈺文、潘佑萱、郭昀甄","work":"前端程式"},
+          {"name":"陳穎融、李淯萱","work":"UI設計"},
+          {"name":"沈桓民、謝育哲","work":"後端程式"}
+        ]
+      },
+      {
+        "courseclass": "dark",
+        "fulltitle": "數位邏輯設計實驗課程網站",
+        "workImg": "images/img_digitallogiclab.png",
+        "filmurl": "",
+        "workurl":"https://ntue-arduino-lab.github.io/digitallogiclab/",
+        "awards": "",
+        "purpose": "為數位系大一課程「數位邏輯設計實驗」所設計之課程網站，內容包含各項實驗簡介與範例影片。",
+        "tools": "html、css、js、bootstrap",
+        "members": [
+          {"name":"陳鈺文","work":"網頁程式、UI設計"},
+          {"name":"沈桓民","work":"課程簡介文案"}
+        ]
+      },
+      {
+        "courseclass": "light",
+        "fulltitle": "桌遊-萌獸學院介紹網站",
+        "workImg": "images/img_animalacademy.png",
+        "filmurl": "",
+        "workurl": "https://humichen.github.io/new_animalacademy/",
+        "awards": "",
+        "tools": "html、css、js、FireBase、Lottie",
+        "purpose": "為了配合畢業製作主題「動物保育桌遊-萌獸學院的設計與推廣」而規劃了桌遊的官方網站，網站內容包含推廣活動的最新消息、遊戲介紹、角色設定集、團隊介紹、以及動保知識小測驗。",
+        "members": [
+          {"name":"陳鈺文","work":"網頁程式、UI設計、icon設計、網頁動畫設計"},
+          {"name":"魏均如","work":"網頁程式、UI設計"}
+        ]
+      },
+      {
+        "courseclass": "dark",
+        "fulltitle": "Chrome擴充套件-塊罩",
+        "workImg": "images/img_maskExtention.png",
+        "filmurl": "https://youtu.be/XtKeEmya3Qw",
+        "awards": "第19屆育秀盃創意獎《永續實踐+》軟體應用類 複賽入圍",
+        "tools": "js、Google App Scripts、Google Sheet",
+        "purpose": "「塊罩」是一款應用於視覺化程式設計網頁—— Microsoft Makecode Arcade 的教學輔助擴充套件，教師可利用「塊罩」提供的教學框架方便地規劃教材，針對學生程度進行組別的差異化教學；系統運用互動式教學介面搭配程式方塊操作畫面的方式，提供學生做中學的程式學習環境；程式方塊提示功能可以限縮網頁中可選擇的方塊選項，提示學生使用課程重點學習的程式方塊。作業評量功能可減輕批改作業的負擔，方便教師快速檢核學生學習狀況。「塊罩」以視覺化程式設計網頁作為基礎，設計彈性的操作系統實現適性化教學，使教學模式效用最大化。",
+        "members": [
+          {"name":"陳鈺文","work":"程式設計"},
+          {"name":"潘佑萱","work":"程式設計"},
+          {"name":"陳穎融","work":"UI設計、課程內容設計"}
+        ]
+      },
+      {
+        "courseclass": "light",
+        "fulltitle": "機器學習-自動結帳系統",
+        "workImg": "images/img_teachableMachine.png",
+        "filmurl": "https://youtu.be/9vdtiqghGUQ",
+        "workurl": "https://humichen.github.io/teachableMachine/",
+        "awards": "",
+        "tools": "js、Teachable Machine",
+        "purpose": "運用Teachable Machine製作，可辨識紙膠帶、ESP32開發板、美工刀、立可帶，並將物品價格加總。",
+        "members": [
+          {"name":"陳鈺文","work":"模型訓練、網頁程式"}
+        ]
+      },
+      {
+        "courseclass": "dark",
+        "fulltitle": "遠距上課點名程式",
+        "workImg": "images/img_order.png",
+        "workurl": "https://docs.google.com/spreadsheets/d/1pK-idSalcUR9i5jjGtr0RvX8Orl8oalcnsgs6toY8XQ/copy",
+        "awards": "",
+        "tools": "Google App Scripts、Google Sheet",
+        "purpose": "一個在遠距上課時輔助點名並且自動比對上課名單的好用程式（需搭配Meet視訊會議點名擴充套件使用）。點擊作品超連結可以直接複製範本啟用程式。",
+        "members": [
+          {"name":"陳鈺文","work":"程式設計"}
+        ]
+      },
+      {
+        "courseclass": "light",
+        "fulltitle": "概念圖自律學習系統-學生端（未公開）",
+        "workImg": "images/img_conceptMap.png",
+        "awards": "",
+        "tools": "React、python",
+        "purpose": "配合概念構圖與自律學習理論的導入，可以協助研究者進行教學研究。自訂學習內容與教材，每個人都能使用的AR行動學習APP",
+        "members": [
+          {"name":"陳鈺文","work":"前端程式"},
+          {"name":"郭昀甄","work":"前端程式"},
+          {"name":"陳志玄","work":"後端程式"},
+          {"name":"謝育哲","work":"後端程式"}
+        ]
+      },
+      {
+        "courseclass": "dark",
+        "fulltitle": "朗讀測驗網站（未公開）",
+        "workImg": "images/img_reading.png",
+        "awards": "",
+        "purpose": "為國小老師與學生設計，透過語音比對系統縮短老師對整班學生進行課文朗讀測驗的時間。",
+        "tools": "js、python、Azure雲端服務",
+        "members": [
+          {"name":"陳鈺文","work":"前端程式、UI設計"},
+          {"name":"陳志玄","work":"後端程式"}
+        ]
+      }
+    ]
+  },
+  {
+    "_id": 1,
+    "title": "應用程式",
+    "entitle": "Apps",
+    "icon": "fa-tablet-screen-button",
+    "colorclass": "color_tea",
+    "details": [
+      {
+        "courseclass": "light",
+        "fulltitle": "Memotrees",
+        "workImg": "images/img_memotrees.png",
+        "filmurl": "https://www.youtube.com/watch?v=Dg2y5mFBeSw",
+        "awards": "2020APP移動應用創新賽 佳作",
+        "purpose": "App名稱Memotrees由Memory以及Trees組成。目的是希望透過「回想法」的方式，藉由家人上傳的照片，以及照片的點滴，讓年長者透過照片的問答小遊戲，刺激他們回想過去、活用大腦，喚起以前的記憶，來延緩記性退化，此外，家人也可以藉由此款App來觀察老人退化的情況。",
+        "members": [
+          {"name":"陳鈺文","work":"企劃、程式設計"},
+          {"name":"郭昀甄","work":"企劃、程式設計"},
+          {"name":"鞏持靚","work":"企劃、美術設計"}
+        ]
+      },
+      {
+        "courseclass": "dark",
+        "fulltitle": "文創人GO",
+        "workImg": "images/img_go.png",
+        "filmurl": "https://youtu.be/Hw4hOK3X5Fo",
+        "workurl":"https://exp.host/@humichen/ccimfreshmen",
+        "awards": "",
+        "purpose": "還記得當年剛進入大學的時候，常常找不到系上管理的一些特別教室與空間的位置，為了讓未來的大一新生可以快速融入文創系，文創人GO這款app誕生了!透過解任務的形式， 跟新生介紹系上的資源，可與迎新活動搭配，任務分地點篇與資訊聯絡篇兩部分。",
+        "tools": "React Native、Firebase",
+        "members": [
+          {"name":"陳鈺文","work":"企劃、UI設計、程式設計"}
+        ]
+      }
+    ]
+  },
+  {
+    "_id": 2,
+    "title": "互動裝置",
+    "entitle": "Arduino",
+    "icon": "fa-robot",
+    "colorclass": "color_tea",
+    "details": [
+      {
+        "courseclass": "light",
+        "fulltitle": "寵物助教",
+        "workImg": "images/img_pet.jpg",
+        "filmurl": "https://youtu.be/NqXEo3IH-KY",
+        "awards": "",
+        "purpose": "上課講義老師放在前面桌上但進教室的學生經過卻每每視而不見，就算在寫在黑板上提醒，但就是有人沒注意到。 所以老師/助教/被老師叫去幫忙的同學，還得每進來一個學生提醒一次「前面有講義」因此寵物助教誕生了，當有人經過時寵物助教就會發出聲音提醒，一共有三種模式(拿講義/請簽到/交作業)",
+        "tools": "Webdruino Smart 開發板、喇叭、LED、LCD顯示器、mp3播放器、人體紅外線感測器",
+        "members": [
+          {"name":"陳鈺文","work":"提案發起、外觀設計製作、程式設計"},
+          {"name":"楊雅茹","work":"硬體連接"},
+          {"name":"何佳恩","work":"影片剪接"},
+          {"name":"鄭濠營","work":"程式設計"},
+          {"name":"張瑋軒","work":"程式設計"}
+        ]
+      },
+      {
+        "courseclass": "dark",
+        "fulltitle": "電子寵物",
+        "workImg": "images/img_elecPet.jpg",
+        "filmurl": "https://youtu.be/82tXB2Nep8M",
+        "awards": "",
+        "purpose": "當你覺得孤單寂寞冷時，電子寵物是你最好的夥伴，陪伴你，撫慰你孤獨的心靈",
+        "tools":"手機、ESP32開發板、OLED面板、LED、減速馬達、壓力感測器、光敏電阻、超音波距離感測器",
+        "members": [
+          {"name":"陳鈺文","work":"動畫繪圖與程式設計、外型設計製作、影片剪輯"},
+          {"name":"鄭仴筑","work":"遊戲程式設計、硬體連接"}
+        ]
+      },
+      {
+        "courseclass": "light",
+        "fulltitle": "Save The Earth",
+        "workImg": "images/img_saveTheEarth.jpg",
+        "filmurl": "https://youtu.be/ZvB0eGdc1aU",
+        "awards": "",
+        "purpose": "病毒星人要侵略地球了! 來吧!勇士們! 一起來守護我們的地球! 遊戲玩法：這是一款訓練手速的遊戲。按麵包板上的按鈕即可將遊戲開啟，利用手機介面上下左右來控制牆面阻止病毒的入侵，阻止病毒8次以上便可殺死病毒，贏得勝利， LED BAR將會顯示贏的次數(最高到8);此外玩家在遊戲期間一共有四條命，LED燈代表剩餘性命數量。",
+        "tools": "手機、ESP32開發板、OLED面板、LED、LED BAR、按鈕、蜂鳴器",
+        "members": [
+          {"name":"陳鈺文","work":"動畫繪圖與程式設計、外型設計製作、影片剪輯"},
+          {"name":"鄭仴筑","work":"遊戲程式設計、硬體連接"}
+        ]
+      },
+      {
+        "courseclass": "dark",
+        "fulltitle": "蒲呼呼",
+        "workImg": "images/img_pohuhu.png",
+        "filmurl": "https://youtu.be/-1g3MHPrgjY",
+        "awards": "第十一屆OpenHCI人機互動工作坊 最佳故事獎",
+        "purpose": "蒲呼呼是款讓離家子女能夠陪伴遠方家人的居家型互動燈光裝置。使用者可利用蒲呼呼錄下平時無法當面說出口的關心話語，透過「吹熄」燈光發送錄音，就像吹送蒲公英的種子，將思念傳遞給遠方的家人。當家人在為植物澆水時，就蒙聽到語音訊息，並聯動讓使用者的蒲呼呼再度亮起。即使彼此分隔兩地，連結依舊生生不息。",
+        "members": [
+          {"name":"陳鈺文","work":"硬體與感測器"},
+          {"name":"鍾秉紘、吳兆敏","work":"外觀設計"},
+          {"name":"何晉倫","work":"影片設計"},
+          {"name":"林韋君、蘇舫萱","work":"程式設計"},
+          {"name":"林佳儀、黃鈺婷","work":"企劃"}
+        ]
+      }
+    ]
+  },
+  {
+    "_id": 3,
+    "title": "VR與動畫設計",
+    "entitle": "VR ＆ Animation Design",
+    "icon": "fa-vr-cardboard",
+    "colorclass": "color_tea",
+    "details": [
+      {
+        "courseclass": "light",
+        "fulltitle": "Little Brother's Work - Sequel of the Three Little Pigs",
+        "workImg": "images/img_styly_game.jpg",
+        "filmurl": "https://youtu.be/yln9IaxThmI",
+        "workurl": "https://gallery.styly.cc/scene/7d5dd6e9-c893-46f5-8c44-08159c792060",
+        "awards": "",
+        "purpose": "This story is based on the Three Little Pigs, and experiencers will play the role of Little Brother. After Little Brother chased the wolf away, he became a famous architect and builds new houses for the villagers every day. However, something happened...",
+        "tools": "Unity、Styly",
+        "members": [
+          {"name":"陳鈺文","work":"故事創作、程式設計、美術設計"},
+          {"name":"沈桓民","work":"程式設計"}
+        ]
+      },
+      {
+        "courseclass": "dark",
+        "fulltitle": "金錢會改變一切",
+        "workImg": "images/img_moneyWillChangeEverything.png",
+        "filmurl": "https://youtu.be/iJrFs9XZxjc",
+        "awards": "",
+        "purpose": "由三隻小豬故事改編，描述豬小弟趕走大野狼後，與森林裡的居民們發生的故事。",
+        "tools": "Photoshop、iMove",
+        "members": [
+          {"name":"陳鈺文","work":"故事腳本創作、動畫繪圖與製作"}
+        ]
+      }
+    ]
+  },
+  {
+    "_id": 4,
+    "title": "遊戲設計",
+    "entitle": "Game Design",
+    "icon": "fa-gamepad",
+    "colorclass": "color_tea",
+    "details": [
+      {
+        "courseclass": "light",
+        "fulltitle": "蹦世界實境解謎遊戲-植引",
+        "workImg": "images/img_plant.png",
+        "filmurl": "https://youtu.be/BhmtlOK1h_s",
+        "workurl": "https://popworld.cc/guide/4081/preview",
+        "awards": "",
+        "purpose": "這裡…到底是什麼地方…？\n\n&emsp;&emsp;一位剛上任的新手園區管理員，在機緣之下誤入了屬於妖精的世界。在那裡他變得能理解動植物的所說的話，並在他們的引導下找到了一隻迷路的植物妖精。\n\n&emsp;&emsp;「我什麼都不記得了…」她抽泣著：「我想找回我的名字、找到回家的路。」\n&emsp;&emsp;「不如這樣吧。」我向妖精伸出了手：「讓我來幫你吧。」\n\n&emsp;&emsp;聽到這番話，妖精輕輕點了頭，逐漸展開了笑顏。\n\n&emsp;&emsp;於是，我們一起展開了一場尋找記憶的冒險…",
+        "members": [
+          {"name":"陳鈺文","work":"企劃、謎題美術、遊戲製作"},
+          {"name":"李淯萱","work":"企劃、遊戲製作"},
+          {"name":"周晴萱","work":"企劃、遊戲美術"}
+        ]
+      },
+      {
+        "courseclass": "dark",
+        "fulltitle": "動物保育桌遊-萌獸學院",
+        "workImg": "images/img_gametoy.jpg",
+        "filmurl": "",
+        "workurl": "https://humichen.github.io/new_animalacademy/",
+        "awards": "第11屆畢業製作展覽《Camperience 半日營造計畫》 產品開發獎",
+        "purpose": "「萌獸學院」是一款介紹8種台灣保育類動物及其相關議題的卡牌型桌遊。玩家在學院(遊玩)中學習、接觸到的知識，在了解了人類與自然界的關係後，我們期望這些資訊能成為人們後續分享的媒介、抑或是行動的契機。",
+        "members": [
+          {"name":"陳鈺文","work":"美術設計、官網製作"},
+          {"name":"俞羿彣","work":"遊戲企劃、公關"},
+          {"name":"王韻淳","work":"宣傳活動策劃、社群媒體經營"},
+          {"name":"宋容興","work":"遊戲機制設計、測試員"}
+        ]
+      }
+    ]
+  },
+  {
+    "_id": 5,
+    "title": "角色設計",
+    "entitle": "Character Design",
+    "icon": "fa-paintbrush",
+    "colorclass": "color_tea",
+    "details": [
+      {
+        "courseclass": "light",
+        "fulltitle": "沉鬱蚊",
+        "workImg": "images/img_mos.png",
+        "awards": "",
+        "purpose": "沉思中的憂鬱蚊子就是陳(沉)鈺(鬱)文(蚊)，不過我本人個性可是一點也不憂鬱的喔！ (≧∀≦)ゞ",
+        "members": ""
+      },
+      {
+        "courseclass": "dark",
+        "fulltitle": "精油泉的守護獸",
+        "workImg": "images/img_wolf.png",
+        "awards": "",
+        "purpose": "說中有一處神祕的薰衣草精油泉，泉水的中央有一顆薰衣草之心能源源不絕地產生薰衣草精油，並且有一隻灰狼靜靜的守護著薰衣草之心。",
+        "members": ""
+      },
+      {
+        "courseclass": "light",
+        "fulltitle": "人文藝術學院吉祥物",
+        "workImg": "images/img_camel.jpg",
+        "awards": "人文藝術學院吉祥物大賽 佳作",
+        "purpose": "人文藝術學院所屬文創系(Cultural and Creative Industries Management)和台文所(Taiwanese Culture)的「C」、 藝設系(Arts and Design)的「A」、音樂學系(Music)的 「M」、兒英系(Children English Education)的「E」、語創系 (Language and Creative Writing)的「L」，合起來就是 「Camel駱駝」，象徵要6個系所集合起來才是國北的人文藝術學院;吉祥物以明亮的黃色為基底，則是象徵人文藝術學院的同學們明亮的未來。",
+        "members": ""
+      },
+      {
+        "courseclass": "dark",
+        "fulltitle": "啟迪之星設計獅",
+        "workImg": "images/img_lion.png",
+        "awards": "",
+        "purpose": "這是我在啟迪之星孵化器公司實習期間為部門設計的形象logo，創作靈感來自於我的主管說她經常稱他們團隊裡的設計師們為「設計獅」，所以我選擇以獅子作為主角， 而鬃毛的部分則設計成有些藝術家氣息的髮型，配上啟迪之星的黑色T-shirt，並且自信地拿著一支畫筆，整體顏色選擇參考了啟 迪控股logo所用的黃色與紫色。",
+        "members": ""
+      },
+      {
+        "courseclass": "light",
+        "fulltitle": "藍腹鷴",
+        "workImg": "images/img_blue.png",
+        "awards": "",
+        "purpose": "有一位學者在追尋雲豹的期間，在台東的深山裡放置了許多自動照相機希望能拍到雲豹的相片，但沒想到回收的相片中有近五成都是拍到藍腹鷴在鏡頭前搔首弄姿。自從聽到這位學者分享他的經驗後，「藍腹鷴=自戀」在我的腦袋裡根深蒂固，而後我創作出了這隻正炫耀自己羽毛的藍腹鷴。",
+        "members": ""
+      }
+    ]
+  }
+]
