@@ -60,6 +60,7 @@ h1,h3 {
 .nav-logo {
    font-size: 24px;
    color: #fff;
+   letter-spacing: 2px;
 }
 .nav__brand {
    color: #fff;
@@ -98,6 +99,8 @@ h1,h3 {
    padding-top: 100px;
    padding-bottom: 100px;
    color: #31b6a1;
+   margin-left: 0!important;
+   margin-right: 0!important;
 }
 
 /* Footer Style */
@@ -252,7 +255,7 @@ footer {
 .title-layout {
    display: flex;
    align-content: space-around;
-   margin-bottom: 24px;
+   margin-bottom: 16px;
    padding: 4px 8px ;
    height: 30px;
 }
@@ -270,6 +273,7 @@ footer {
    align-items: center;
    color: #31b6a1;
    justify-content: center;
+   letter-spacing:2px;
 
 }
 .arrow1{
@@ -337,7 +341,7 @@ footer {
 .resume__description {
    text-indent: 2rem;
 }
-@media (max-width: 992px){
+@media (max-width: 991px){
    .course {
       padding-top: 40px;
       padding-bottom: 0px;
@@ -389,7 +393,7 @@ footer {
 .course__link {
    display: flex;
    flex-direction: column-reverse;
-   transition: .2s ease-in-out; 
+   /* transition: .2s ease-in-out;  */
 }
 .course__link:hover {
    transform: scale(110%);
@@ -412,6 +416,9 @@ footer {
    padding-bottom: 16px;
    border-radius: 0 0 5px 5px;
    color: #444;
+}
+.course_title strong{
+   font-weight: 500 !important; 
 }
 
 .course_logicdiagram{
@@ -481,7 +488,7 @@ footer {
 /* Detail Page */
 /* Detail-Course Style */
 .detailBody{
-   grid-template-rows: auto 223px;
+   grid-template-rows: auto 100px;
 }
 .detail {
    padding-top: 22px;
