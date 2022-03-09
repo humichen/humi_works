@@ -13,7 +13,7 @@
         "filmurl": "",
         "workurl": "https://dtd.ntue.edu.tw/#/",
         "awards": "",
-        "purpose": "數位系系網新改版。",
+        "purpose": "數位系系網新改版，以舊有的系網為基礎，刪除不適用的頁面及重新規劃系上重要資訊的呈現，以React框架建出新版系網，而後台管理介面則沿用舊有的Wordpress系統。從發現問題到重新規劃，從介面設計到程式開發，從測試部署到正式上架，耗時半年順利完成了系網的改版。",
         "tools": "React、Wordpress",
         "members": [
           {"name":"陳鈺文、潘佑萱、郭昀甄","work":"前端程式"},
