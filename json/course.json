@@ -90,6 +90,18 @@
       },
       {
         "courseclass": "light",
+        "fulltitle": "美妝筆記本（未公開）",
+        "workImg": "images/img_makeUpNote.png",
+        "awards": "",
+        "tools": "React、Node.js、MongoDB",
+        "purpose": "美妝筆記本提供美妝管理、方法管理功能，協助愛美的妳更快速更方便管理化妝品和保養品以及收藏網路上分享的化妝、保養方式，讓你輕鬆變美麗！\n&emsp;&emsp;化妝品管理功能－協助你更快了解目前自己擁有多少化妝品、保養品以及在快過期時發送通知給你，另外我們還提供了色號卡的功能，無論在何處你都可以掌握已有的化妝品色號，讓被欲望沖昏頭的你控制自己購物的衝動。\n&emsp;&emsp;方法管理功能－提供一個龐大空間讓你儲存網路上分享的美妝及保養方式，並透過標籤功能幫你分類，讓你不用再東翻西找，創建專屬自己的美容百科全書。",
+        "members": [
+          {"name":"陳鈺文","work":"UI設計、程式設計"},
+          {"name":"李淯萱","work":"UI設計、程式設計"}
+        ]
+      },
+      {
+        "courseclass": "dark",
         "fulltitle": "概念圖自律學習系統-學生端（未公開）",
         "workImg": "images/img_conceptMap.png",
         "awards": "",
@@ -103,7 +115,7 @@
         ]
       },
       {
-        "courseclass": "dark",
+        "courseclass": "light",
         "fulltitle": "朗讀測驗網站（未公開）",
         "workImg": "images/img_reading.png",
         "awards": "",
