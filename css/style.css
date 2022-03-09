@@ -112,6 +112,20 @@ footer {
    display: flex;
    align-items: center;
 }
+@media screen and ( max-width:768px) {
+   footer {
+      height: 150px;
+   }
+   .footer__above {
+      height: 150px;
+   }
+   .copyright {
+      display: flex;
+      text-align: center;
+      justify-content: center;
+      margin-bottom: 20px;
+   }
+}
 
 .footer__description {
    margin: 0;
@@ -242,6 +256,11 @@ footer {
    padding: 4px 8px ;
    height: 30px;
 }
+@media screen and (max-width:768px) {
+   .title-layout {
+      margin-top: 32px;
+   }
+}
 .title{
    /* width: 100px; */
    padding: 0 12px;
@@ -325,7 +344,7 @@ footer {
    }
    .resume {
       padding-top: 100px;
-      padding-bottom: 0px;
+      padding-bottom: 100px;
    }
 }
 /* Button Style  */
@@ -506,6 +525,12 @@ footer {
 .course-container{
    padding-top: 100px;
    padding-bottom: 100px;
+}
+@media screen and (max-width:768px){
+   .course-container{
+      padding-top: 80px;
+      padding-bottom: 50px;
+   }
 }
 
 .course-content{
