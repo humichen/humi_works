@@ -161,6 +161,17 @@
         "members": [
           {"name":"陳鈺文","work":"企劃、UI設計、程式設計"}
         ]
+      }, 
+      {
+        "courseclass": "light",
+        "fulltitle": "鐵人賽系列文章－「30天用React native製作app！！」",
+        "workImg": "images/img_iThomeironman.png",
+        "workurl": "https://ithelp.ithome.com.tw/users/20129575/ironman/3353",
+        "awards": "第12屆iT邦幫忙鐵人賽 完賽",
+        "purpose": "我將製作應用程式「文創人GO」的過程寫成30篇文章，希望我開發時使用的一些技巧可以幫助其他開發者們獲取一些靈感。",
+        "members": [
+          {"name":"陳鈺文","work":"文章撰寫"}
+        ]
       }
     ]
   },
