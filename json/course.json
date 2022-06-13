@@ -155,7 +155,6 @@
         "fulltitle": "文創人GO",
         "workImg": "images/img_go.png",
         "filmurl": "https://youtu.be/Hw4hOK3X5Fo",
-        "workurl":"https://exp.host/@humichen/ccimfreshmen",
         "awards": "",
         "purpose": "還記得當年剛進入大學的時候，常常找不到系上管理的一些特別教室與空間的位置，為了讓未來的大一新生可以快速融入文創系，文創人GO這款app誕生了!透過解任務的形式， 跟新生介紹系上的資源，可與迎新活動搭配，任務分地點篇與資訊聯絡篇兩部分。",
         "tools": "React Native、Firebase",
