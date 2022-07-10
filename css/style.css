@@ -573,6 +573,15 @@ footer {
    width: 99%;
    margin-bottom: 8px;
 }
+.articleContent a{
+  color: #444;
+}
+.articleContent a:hover{
+   color: #31b6a1;
+ }
+ .articleContent a:active{
+   color: #31b6a1;
+ }
 
 .course-content{
    padding: 10px 20px;
