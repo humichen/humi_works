@@ -5,7 +5,7 @@ $(document).ready(function () {
     dataType: "json",
     success: function (data) {
       //生成課程
-      $(".loading").css("display", "none");
+      $(".load-2").css("display", "none");
       data.map((course) => {
         var card = `
           <div class="mt-4 col-md-4 col-sm-6 course_cell">
@@ -31,13 +31,8 @@ $(document).ready(function () {
     dataType: "json",
     success: function (data) {
       //生成著作
-      $(".loading").css("display", "none");
+      $(".load-1").css("display", "none");
       data.map((writing) => {
-        // var card = `
-        //   <div class="articleContent"><div class="articleList"></div><p><a href=${
-        //     writing.link == "" ? "#" : `"${writing.link}" target="_blank"`
-        //   }>${writing.title}</a></p></div>
-        //   `;
         var card = `
           <div class="articleContent"><div class="articleList"></div><p> ${
             writing.link !== ""
