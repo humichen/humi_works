@@ -5,7 +5,7 @@ $(document).ready(function () {
     dataType: "json",
     success: function (data) {
       //生成課程
-      $('.loading').css('display','none');
+      $(".loading").css("display", "none");
       data.map((course) => {
         var card = `
           <div class="mt-4 col-md-4 col-sm-6 course_cell">
@@ -22,7 +22,41 @@ $(document).ready(function () {
       });
     },
     error: function () {
-      alert("課程獲取失敗");
+      alert("作品集獲取失敗");
+    },
+  });
+  $.ajax({
+    type: "get",
+    url: "json/writings.json",
+    dataType: "json",
+    success: function (data) {
+      //生成著作
+      $(".loading").css("display", "none");
+      data.map((writing) => {
+        // var card = `
+        //   <div class="articleContent"><div class="articleList"></div><p><a href=${
+        //     writing.link == "" ? "#" : `"${writing.link}" target="_blank"`
+        //   }>${writing.title}</a></p></div>
+        //   `;
+        var card = `
+          <div class="articleContent"><div class="articleList"></div><p> ${
+            writing.link !== ""
+              ? `<a href=${writing.link} target="_blank"
+          }>${
+            writing.lang == "ch"
+              ? `${writing.author}（${writing.year}）。${writing.title}。<i>${writing.publishing}</i>。</a>`
+              : `${writing.author}(${writing.year}).${writing.title}.<i>${writing.publishing}</i>。</a>`
+          }`
+              : writing.lang == "ch"
+              ? `${writing.author}（${writing.year}）。${writing.title}。<i>${writing.publishing}</i>。`
+              : `${writing.author}(${writing.year}).${writing.title}.<i>${writing.publishing}</i>。`
+          }
+          `;
+        $(".writingsList").append(card);
+      });
+    },
+    error: function () {
+      alert("著作獲取失敗");
     },
   });
 });

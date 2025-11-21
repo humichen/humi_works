@@ -557,12 +557,10 @@ footer {
 .myArticles {
    padding-top: 56px;
 }
-.articleList {
-   height: 8px;
-   width: 8px !important;
-   border-radius: 2px;
-   background-color: #31b6a1;
-   margin-top: 10px;
+
+.writingsList {
+   display: flex;
+   flex-direction: column-reverse;
 }
 .articleContent {
    font-size: 16px !important;
@@ -582,6 +580,13 @@ footer {
  .articleContent a:active{
    color: #31b6a1;
  }
+ .articleList {
+   height: 8px;
+   width: 8px !important;
+   border-radius: 2px;
+   background-color: #31b6a1;
+   margin-top: 10px;
+}
 
 .course-content{
    padding: 10px 20px;

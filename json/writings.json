@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "Chrome 擴充套件實作差異化教學—以 Makecode Arcade 為例",
+        "link": "",
+        "author": "潘佑萱、陳鈺文、陳穎融、范丙林、俞齊山",
+        "year": 2021,
+        "publishing": "TWELF 2021 第十六屆台灣數位學習發展研討會",
+        "lang": "ch"
+    },
+    {
+        "id": 2,
+        "title": "視覺化程式設計差異化教學輔助系統應用於國小資訊教學之初探",
+        "link": "",
+        "author": "陳鈺文、潘佑萱、陳穎融、俞齊山、范丙林",
+        "year": 2021,
+        "publishing": "TAECT 2021 台灣教育傳播暨科技學會年會@NTUNHS國際學術研討會",
+        "lang": "ch"
+    },
+    {
+        "id": 3,
+        "title": "短時間壓力恢復之適地性休閒服務系統設計(未發表的碩士論文)",
+        "link": "https://hdl.handle.net/11296/5v8d45",
+        "author": "陳鈺文",
+        "year": 2022,
+        "publishing": "國立臺北教育大學數位科技設計學系(含玩具與遊戲設計碩士班)",
+        "lang": "ch"
+    }
+]
