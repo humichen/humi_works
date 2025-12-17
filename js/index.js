@@ -40,11 +40,11 @@ $(document).ready(function () {
           }>${
             writing.lang == "ch"
               ? `${writing.author}（${writing.year}）。${writing.title}。<i>${writing.publishing}</i>。</a>`
-              : `${writing.author}(${writing.year}).${writing.title}.<i>${writing.publishing}</i>。</a>`
+              : `${writing.author}(${writing.year}). ${writing.title}. <i>${writing.publishing}</i>.</a>`
           }`
               : writing.lang == "ch"
               ? `${writing.author}（${writing.year}）。${writing.title}。<i>${writing.publishing}</i>。`
-              : `${writing.author}(${writing.year}).${writing.title}.<i>${writing.publishing}</i>。`
+              : `${writing.author}(${writing.year}). ${writing.title}. <i>${writing.publishing}</i>.`
           }
           `;
         $(".writingsList").append(card);
